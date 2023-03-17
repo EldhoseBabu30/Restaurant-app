@@ -1,0 +1,49 @@
+
+
+
+
+                React - Front End Development
+        
+        - create project : npx create-react-app project-name
+        - run project :  npm start 
+        - to add routing : npm i react-router-dom 
+        - 
+
+        - Features
+            1. Component based approach
+            2. JSX (Javascript XML)
+            3. Virtual Development
+            4. Fast 
+        
+        Angular                      React                     Vue
+
+    1. Framework                     Library                   Framework
+          -google                     -facebook                  -Open source                         
+    2. TypeScript                    Javascript                Javascript
+    3. Real DOM                      Virtual DOM               Virtual DOM
+    4. Bi-directional                Unidirectional            Bi-directional   
+         - data binding                - data binding            - data binding
+   
+
+    - State: Used to store data that can be shard with other Component
+    - Component
+         - Class based Component/statefull Component
+         - Functional Component/stateless Component
+    - Routing in React: react-router-dom Library
+        - Route
+        - Routes
+        - BrowserRouter
+
+    - Hook
+        1.useState()
+        2.useEffect()
+        3.useParams()
+        4.useDispatch()
+
+    - REDUX : State management system
+        - props drilling
+        - Install redux react-redux redux-thunk
+            - Store
+            - Component
+            - Action
+            - Reducer
